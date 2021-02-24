@@ -22,3 +22,7 @@ Basically we had separated those targeted users into categories:
   -> minority of them, special cases, or not too many so we can put into.
 5. Common bad words/swear
 -> flexible. Don't mindless copy all of them as it will make your stream Utopia.
+
+
+## How to add them?
+pull request by editing the files (only add, no delete) and send the proves of they should be in black list by footages (upload by link or images, footage work best)
