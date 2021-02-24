@@ -1,28 +1,30 @@
-# Twitch Blacklist Directory
-A blacklist collection which is global usage to ban/kick/block someone who is offensive towards streams.
-
+# Twitch Global BlackList
+> A blacklist collection which is global usage to ban/kick/block someone who is offensive towards streams.
 
 ## How to use it?
 Basically we had separated those targeted users into categories:
-1. bots
--> you don't have to blacklist them, but you can either make their chat ignore in overlay or block them from earning currency
-2. lurkers
--> handpicked lurkers as they didn't increase your view count thus ruining your currency. Kinda block them from earning your streaming currency.
-3. advertisers
--> this list is a bit special, they are somewhere between lurkers and "hosters" which claimed to "help increase your views by hosting". As far as I had experimented for 3 years, their help are basically nothing but more like lurkers. Feel free to block them or if you really want to see if they can somehow help you, leave them.
-4. Offensive
--> this one have few sub-categories:
-  - Swear word lover
-  -> as title said, a person who says nothing but swearing at you, your mother, etc.
-  - 战对岸
-  -> 通常发生在中文频道区 会有一些无脑的用户盲目洗频宣誓台湾与中国的关系 都会归类在这里
-  - 18+
-  -> sexual comment lover, 18+ jokes holder, anything about offensive sex attacks belong here.
-  - others
-  -> minority of them, special cases, or not too many so we can put into.
-5. Common bad words/swear
--> flexible. Don't mindless copy all of them as it will make your stream Utopia.
 
-
-## How to add them?
-pull request by editing the files (only add, no delete) and send the proves of they should be in black list by footages (upload by link or images, footage work best)
+ - [ ] bots
+ - Examples: Nightbot, Streamlabs, Streamelements, Moobot, etc
+ - Those are your helping friends which used to help you monitoring your stream, interactive with chatters and etc.
+ - Normally you don't have to blacklist them, meanwhile you can either hide their chat in your stream overlay and block them from earning currency.
+ - [ ] lurkers
+ - Examples: electricallongboard, twitchdetails, commanderroot, bingcortana, etc
+ - Those guys are doing nothing, even cause no effect on your view count, but just to stay in your chat and lurking.
+ - The problem of their lurking are they are ruining your economy/currency/loyalty point system as they are lurking longer than every average viewer and that will discourage them keep earning currency from your stream.
+ - You don't have to blacklist them, but please kindly block their earning currency feature (streamelements can do that)
+ - [ ] advertisers
+ - Examples: UnderratedTwitchers, communityshowcase, shoutgamers, etc
+ - Those "organization" claims that they will help you advertise/host your stream to aid you getting viewers.
+ - Meanwhile, they are in gray zone between advertise and lurkers.
+ - Been tried 3 years experiment and I concluded that their aid are almost 0.
+ - Feel free to block them or if you really want to see if they can somehow help you, leave them alone.
+ - [ ] offensive: ad hominem & name calling
+ - Examples: "your mom fat", "you're ugly", "you are nothing but shit in stream", etc.
+ - Self explain what it does.
+ - [ ] offensive: 战对岸
+ - 通常发生在中文频道区 会有一些无脑的用户盲目洗频宣誓台湾与中国的关系 都会归类在这里
+ - [ ] offensive: 18+
+ - Sexual comment lover, 18+ jokes holder, anything about offensive sex attacks belong here. 
+ - [ ] offensive:others
+ - minority of them, special cases, or not too many so we can put into.
