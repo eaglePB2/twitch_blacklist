@@ -4,3 +4,4 @@ restreamchatbot
 nightbot
 moobot
 mikuia
+thepikapikabot
