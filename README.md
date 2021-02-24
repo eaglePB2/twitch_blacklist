@@ -28,3 +28,6 @@ Basically we had separated those targeted users into categories:
  - Sexual comment lover, 18+ jokes holder, anything about offensive sex attacks belong here. 
  - [ ] offensive:others
  - minority of them, special cases, or not too many so we can put into.
+
+## How to add the list?
+Just pull request by edit the txt file, thus give me enough evidence to support why you think you should add these user into the blakc list.
