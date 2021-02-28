@@ -13,6 +13,7 @@ Basically we had separated those targeted users into categories:
  - Those guys are doing nothing, even cause no effect on your view count, but just to stay in your chat and lurking.
  - The problem of their lurking are they are ruining your economy/currency/loyalty point system as they are lurking longer than every average viewer and that will discourage them keep earning currency from your stream.
  - You don't have to blacklist them, but please kindly block their earning currency feature (streamelements can do that)
+ - We had moved the list into this particular website https://twitchinsights.net/bots for complete version. Search the user you suspet and check if he is lurker!
  - [ ] advertisers
  - Examples: UnderratedTwitchers, communityshowcase, shoutgamers, etc
  - Those "organization" claims that they will help you advertise/host your stream to aid you getting viewers.
